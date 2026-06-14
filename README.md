@@ -1,6 +1,6 @@
 # MV-RTGLD
 
-The source code for our paper "Multi-View Robust Tensor-based Subspace Clustering".
+The source code for our paper "Robust Tensor Decomposition for Joint Multiview Graph Learning and Community Detection".
 
 Available [here](https://ieeexplore.ieee.org/abstract/document/11461979).
 
